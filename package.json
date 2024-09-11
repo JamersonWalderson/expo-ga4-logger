@@ -1,0 +1,25 @@
+{
+  "name": "expo-ga4-logger",
+  "version": "1.0.0",
+  "description": "A lightweight and easy-to-use library for integrating Google Analytics 4 (GA4) with React Native and Expo applications. It simplifies event tracking by allowing you to log events and custom parameters to GA4 using Expo's fetch API, with support for dynamic client IDs. Ideal for tracking user interactions and behavior in your mobile apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apantzar/expo-ga4-logger.git"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "google-analytics",
+    "GA4"
+  ],
+  "author": "Pantzartzis Anastasios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apantzar/expo-ga4-logger/issues"
+  },
+  "homepage": "https://github.com/apantzar/expo-ga4-logger#readme"
+}
